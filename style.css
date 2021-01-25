@@ -27,6 +27,7 @@ body {
   /* grid-template-columns: repeat(4, 1fr); */
   grid-template-rows: 300px 280px;
 }
+
 @media (max-width: 700px) {
   .cards {
     /* grid-template-rows: 445px 240px 225px 385px 440px; */
