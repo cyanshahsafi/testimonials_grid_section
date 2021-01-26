@@ -6,7 +6,8 @@ html {
 }
 body {
   padding: 1rem;
-  padding-top: 120px;
+  padding-top: 100px;
+  padding-bottom: 100px;
   font-family: "Barlow Semi Condensed", sans-serif;
   line-height: normal;
   background-color: #eee;
